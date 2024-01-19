@@ -31,6 +31,18 @@ section {
 
 h2 {
     margin-bottom: 10px;
+    text-align: center;
+}
+.center{
+    display: block;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 .grid-container {
